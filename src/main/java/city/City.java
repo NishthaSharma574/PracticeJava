@@ -8,5 +8,7 @@ public class City {
         System.out.println("Jaipur");
         System.out.println("Bangalore");
         System.out.println("Mumbai");
+        System.out.println("Delhi");
+        System.out.println("Hyderabad");
     }
 }
