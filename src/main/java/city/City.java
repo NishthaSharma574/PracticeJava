@@ -6,5 +6,7 @@ public class City {
         System.out.println("Pathankot");
         System.out.println("Amritsar");
         System.out.println("Jaipur");
+        System.out.println("Bangalore");
+        System.out.println("Mumbai");
     }
 }
