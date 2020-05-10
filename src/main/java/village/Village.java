@@ -5,5 +5,6 @@ public class Village {
     {
         System.out.println("Manwal");
         System.out.println("Jugial");
+        System.out.println("Jakolari");
     }
 }
